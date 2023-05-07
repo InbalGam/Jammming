@@ -1,6 +1,3 @@
-const authorizationVar = 'MDIwNmUxNzE0MTRmNGZlMjhhYTQyNjM1Y2I0MDcyMWU6ZmJmMGFkYTU5NTE0NDBmYTljNTg4YzQ1ZDIzZGM4MWU='
-// var client_id = '0206e171414f4fe28aa42635cb40721e';
-// var client_secret = 'fbf0ada5951440fa9c588c45d23dc81e';
 const url = 'https://accounts.spotify.com/api/token';
 
 
