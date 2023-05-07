@@ -1,0 +1,22 @@
+body {
+    background-color: #ae89ea;
+}
+
+.results_playlist {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    position: relative;
+    text-decoration: underline;
+    color: white;
+    cursor: pointer;
+    top: 3rem;
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+}
+
+a:hover {
+    color: brown;
+}

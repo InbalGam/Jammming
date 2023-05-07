@@ -1,0 +1,22 @@
+.track_div {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.tracklistButton {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+li {
+    border-bottom:1px solid #f4eaf8;
+    margin-top: 0.5rem;
+}
+
+li:last-child{
+    border-bottom: none;
+ }
