@@ -38,7 +38,8 @@ function App() {
           songName: el.name,
           artist: el.artists[0].name,
           album: el.album.name,
-          uri: el.uri
+          uri: el.uri,
+          preview_url: el.preview_url
         }});
     } else if (searchResults.artists) {
       convertResults = searchResults.artists.items.map((el) => {
