@@ -44,3 +44,9 @@ label {
 .submit:hover {
     background-color: #fff4ea;
 }
+
+.error {
+    font-size: 1.5rem;
+    width: 105%;
+    color:maroon;
+}
