@@ -23,4 +23,5 @@ li:last-child{
 
 audio {
     margin-right: 1rem;
+    align-self: center;
 }
