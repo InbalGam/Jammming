@@ -13,10 +13,14 @@
 }
 
 li {
-    border-bottom:1px solid #f4eaf8;
+    border-bottom: 0.06rem solid #f4eaf8;
     margin-top: 0.5rem;
 }
 
 li:last-child{
     border-bottom: none;
- }
+}
+
+audio {
+    margin-right: 1rem;
+}

@@ -2,6 +2,7 @@
     position: relative;
     margin-top: 10rem;
     margin-left: 4rem;
+    margin-right: 6.25rem;
     display: inline-block;
     margin-bottom: 4rem;
     padding: 1rem 2.5rem;
@@ -10,7 +11,7 @@
     box-sizing: border-box;
     font-size: 1.15rem;
     background-color: #b28a9c;
-    box-shadow: 10px 5px 5px #866875;
+    box-shadow: 0.625rem 0.3125rem 0.3125rem #866875;
 }
 
 .playlist_input {
@@ -20,7 +21,7 @@
     width: 70%;
     background-color: #b28a9c;
     border: none;
-    border-bottom:1px solid #2f0c3d;
+    border-bottom: 0.06rem solid #2f0c3d;
 }
 
 .saveButton {

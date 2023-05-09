@@ -10,11 +10,11 @@
     box-sizing: border-box;
     font-size: 1.15rem;
     background-color: #b28a9c;
-    box-shadow: 10px 5px 5px #866875;
+    box-shadow: 0.625rem 0.3125rem 0.3125rem #866875;
 }
 
 .results_p {
-    width: 325px;
+    width: 20.31rem;
 }
 
 p {
