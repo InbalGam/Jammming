@@ -9,7 +9,7 @@ import styles from './components/styles/App.css';
 function App() {
   // Authentication to Spotify-
   const CLIENT_ID = '0206e171414f4fe28aa42635cb40721e';
-  const REDIRECT_URI = "http://localhost:3000";
+  const REDIRECT_URI = "https://jammming-ig.netlify.app";
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
   const RESPONSE_TYPE = "token";
   
